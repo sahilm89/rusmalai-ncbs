@@ -1,2 +1,12 @@
 /venv
 .ipynb_checkpoints
+.pyc
+__pycache__
+
+Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+packages/dist/
+packages/build/
+packages/*.egg-info

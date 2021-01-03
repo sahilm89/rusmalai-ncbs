@@ -1,0 +1,19 @@
+In priority order:
+
+Write Unit test: By changing weights and monintoring the derivative of the cost function with respect to individual weights. 
+Save and load the NN from file.
+
+Modify number of neurons methods in layer addNeuron(index), rmNeuron(index)
+Modify number of layers in NN addLayer(index), rmayer(index)
+
+Different modes in the NN: Batch, mini-batch, etc.
+Different activation functions.
+Another learning algorithm?
+
+Make a graph of the NN using GraphViz or networkx: Could this be made interactive? Say in some combination with js?
+
+
+
+Extra stuff:
+
+1) log2(class_labels) 
